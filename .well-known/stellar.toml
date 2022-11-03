@@ -3,7 +3,8 @@ VERSION="2.2.1"
 ACCOUNTS=[
 "GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
 "GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT",
-"GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C"
+"GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C",
+"GAXKQCWEIYL3OSSAC3Z6YQSHHITERL7XI56UXLOILZ4UZI2YBSEHYSZI"
 ]
 
 [DOCUMENTATION]
@@ -58,3 +59,17 @@ max_number=200
 is_unlimited=false
 #Sweat Token Advanced was issued using the open and inclusive Stellar blockchain network.
 
+
+[[CURRENCIES]]
+code="SWSL"
+status="live"
+display_decimals=2
+issuer="GAXKQCWEIYL3OSSAC3Z6YQSHHITERL7XI56UXLOILZ4UZI2YBSEHYSZI"
+anchor_asset_type="crypto"
+name="Sweat Coin Lite"
+desc="Lite Dividends Token from SweatCoin paying 600 SWS every two weeks. (Every 1000 SWS pay you 0,41 XLM daily)"
+image="https://sweatcoin.fund/Swsl.PNG"
+fixed_number=700
+max_number=700
+is_unlimited=false
+#Sweat Coin Lite was issued using the open and inclusive Stellar blockchain network.
